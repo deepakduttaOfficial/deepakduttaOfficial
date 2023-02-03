@@ -1,22 +1,19 @@
 <h1 align="center">Hi 👋, I'm Deepak Dutta</h1>
-<h3 align="center">A passionate full stack javaScript developer from India</h3>
+<h3 align="center">A passionate full-stack JavaScript developer from India</h3>
 
-<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="" width="100%" height="500px">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakduttaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="deepakduttaofficial" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakduttaofficial" alt="deepakduttaofficial" /></a> </p>
 
-- 🌱 I’m currently learning **Redux, Context api**
+- 🌱 I’m currently learning **Firebase**
 
 - 👨‍💻 All of my projects are available at [https://deepakdutta.netlify.app/](https://deepakdutta.netlify.app/)
 
-- 💬 Ask me about **react, node js, mongoDB, git**
-
 - 📫 How to reach me **deepakdutta752@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I enjoy exploring new technologies and have built a project using React js and node js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
