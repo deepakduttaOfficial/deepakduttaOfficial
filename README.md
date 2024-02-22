@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack JavaScript Developer</h3>
 
 # 💫 About Me:
-🌱 I am currently serving as a full-stack JavaScript developer at Veera Health Care as part of my internship.<br><br>👨‍💻 All of my projects are available at https://deepakdutta.netlify.app/<br><br>📫 How to reach me deepakdutta752@gmail.com<br><br>⚡ Fun fact I enjoy experimenting with new technologies and creating projects using a variety of them
+🌱 I am currently serving as a full-stack JavaScript developer at Veera Health Care as part of my internship.<br><br>👨‍💻 All of my projects are available at https://deepakdutta.me/<br><br>📫 How to reach me deepakdutta752@gmail.com<br><br>⚡ Fun fact I enjoy experimenting with new technologies and creating projects using a variety of them
 
 
 ## 🌐 Socials:
